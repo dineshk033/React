@@ -75,23 +75,7 @@ export default function List() {
 
 ---
 
-## 📌 3. Visualizing the Flow
-
-### Conditional Rendering Flow
-
-```
-Parent Component → passes props → Child Component → decides UI based on condition
-```
-
-### List Rendering Flow
-
-```
-Array of Data → map() → JSX elements with keys → Rendered List
-```
-
----
-
-## 📌 4. Quick Reference Table
+## 📌 3. Quick Reference Table
 
 | Rendering Technique     | Syntax Example                          | Use Case                      |
 | ----------------------- | --------------------------------------- | ----------------------------- |
@@ -101,7 +85,7 @@ Array of Data → map() → JSX elements with keys → Rendered List
 
 ---
 
-## 📌 5. Best Practices
+## 📌 4. Best Practices
 
 - Keep conditions **simple** — avoid deeply nested logic.
 - Use descriptive variable names for conditions (e.g., `isLoggedIn`, `hasError`).
