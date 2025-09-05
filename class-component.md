@@ -1,10 +1,4 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
 
-# create a md file to explain step by step to explain class component how to create and how to use lifecycle hooks and states and error boundary with example application to easily explain to trainee with proper syntax and rules
-
-Below is a comprehensive Markdown file for trainees, explaining step-by-step how to create a React **class component**, use **lifecycle methods**, manage **state**, and implement an **error boundary**, including easy-to-understand examples and syntax rules.[^1][^2][^3][^4][^5][^6][^7][^8]
-
-***
 
 # React Class Components: Complete Step-by-Step Guide
 
