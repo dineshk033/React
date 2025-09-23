@@ -81,7 +81,8 @@ export default function Header() {
 
 Run the remote:
 ```bash
-npm run dev -- --port=5001
+npm run build
+npm run preview -- --port=5000
 ```
 
 ---
@@ -139,8 +140,7 @@ export default App
 
 Run the host:
 ```bash
-npm run build
-npm run preview -- --port=5000
+npm run dev
 ```
 
 ---
