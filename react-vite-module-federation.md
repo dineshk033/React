@@ -139,7 +139,8 @@ export default App
 
 Run the host:
 ```bash
-npm run dev -- --port=5000
+npm run build
+npm run preview -- --port=5000
 ```
 
 ---
